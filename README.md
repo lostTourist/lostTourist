@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lostTourist
 - 👀 I’m interested in building my knowledge in developement in the github comunity.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning python, google cloud architecture, react, figma and tailwinds css.
 - 💞️ I’m looking to collaborate on anything that anyone will let me help with
 - 📫 How to reach me amp.elitetech@gmail.com
 
